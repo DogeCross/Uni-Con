@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MMA</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="equal">=</string>
+    <string name="mr">MR</string>
+    <string name="ms">MS</string>
+    <string name="mc">MC</string>
+    <string name="madd">M+</string>
+    <string name="msub">M-</string>
+    <string name="ac">AC</string>
+    <string name="del">BS</string>
+    <string name="reverse">±</string>
+    <string name="percent">%</string>
+    <string name="sqrt">√</string>
+    <string name="dot">•</string>
+    <string name="inverse">1/x</string>
+    <string name="btn_length">LENGTH</string>
+    <string name="btn_weight">WEIGHT</string>
+    <string name="btn_area">AREA</string>
+    <string name="btn_currency">CURRENCY</string>
+    <string name="btn_pressure">PRESSURE</string>
+    <string name="btn_velocity">VELOCITY</string>
+    <string name="btn_volume">VOLUME</string>
+    <string name="btn_time">TIME</string>
+    <string name="btn_base">BASE-N</string>
+    <string name="eq_set">A1x + B1y + C1 = 0 <br></br> A2x + B2y + C2 = 0</string>
+</resources>
