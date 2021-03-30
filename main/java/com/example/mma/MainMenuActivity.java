@@ -16,6 +16,7 @@ public class MainMenuActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_menu);
+        getSupportActionBar().setTitle("Home");
         btn_calculator = findViewById(R.id.btn_calculator);
         btn_converter = findViewById(R.id.btn_converter);
         btn_equation = findViewById(R.id.btn_equation);

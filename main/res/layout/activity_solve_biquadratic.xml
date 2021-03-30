@@ -11,16 +11,16 @@
         android:layout_width="360dp"
         android:layout_height="67dp"
         android:layout_marginTop="64dp"
+        android:background="@drawable/border_black"
         android:gravity="center"
-        android:text="Ax^2 + Bx +C = 0"
+        android:text="Ax^4 + Bx^2 +C = 0"
         android:textColor="#000000"
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        android:background="@drawable/border_black"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView2"
@@ -134,7 +134,7 @@
         android:id="@+id/tv_result"
         android:layout_width="0dp"
         android:layout_height="160dp"
-        android:layout_marginBottom="76dp"
+        android:layout_marginBottom="40dp"
         android:background="#4B9FF33F"
         android:paddingLeft="20dp"
         android:text="Answer:"
